@@ -1,2 +1,2 @@
 # Dice-Game
-simple Dice game built with Html Css &amp; Javascript
+Simple Dice game built with Html Css &amp; Javascript
